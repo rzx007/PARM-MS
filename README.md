@@ -1,5 +1,5 @@
-# 基于Vue+Element的项目模板
-
+# Protected Area Resources Monitor and Management System
+> 基于webgis的保护区资源监测管理系统， 有效解决了自然保护区资源监测业务中红外相机布设、红外相机管理、相片入库、相片检索、相片统计等业务难题
 ## 依赖安装
 ```
 npm install

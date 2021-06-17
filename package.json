@@ -1,7 +1,8 @@
 {
-  "name": "vue-template-with-elementui",
+  "name": "PARM-MS",
   "version": "0.1.0",
   "private": true,
+  "description": "Protected Area Resources Monitor and Management System",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
