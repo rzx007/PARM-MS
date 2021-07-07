@@ -5,7 +5,7 @@
    * 将要复制的值赋给 textarea 标签的 value 属性，并插入到 body
    * 选中值 textarea 并复制
    * 将 body 中插入的 textarea 移除
-   * 在第一次调用时绑定事件，在解绑时移除事件
+   * 在第一次调用时绑定事件，在解绑时移除事件1
    */
 const copy = {
   bind (el, { value }) {
